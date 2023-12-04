@@ -19,7 +19,7 @@ public class NextSmallerElement2 {
     }
 
     public static void main(String[] args) {
-        int[] arr = new int[]{34, 35, 27, 42, 5, 28, 39, 20, 28};
+        int[] arr = new int[]{4,5,2,10,8};
         System.out.println(Arrays.toString(nextGreaterElements(arr)));
     }
 
