@@ -16,7 +16,7 @@ public class MedianOfSortedArr {
             }
 
         }
-        Arrays.parallelSort(median);
+//        Arrays.parallelSort(median);
         return median[(row * col) / 2];
     }
 
